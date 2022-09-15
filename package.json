@@ -1,13 +1,17 @@
 {
-  "name": "testingchakram",
+  "name": "chakram-api-test-automaion",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "chakram",
+    "test automation",
+    "api testing"
+  ],
+  "author": "Gustavo Cardoso",
   "license": "ISC",
   "dependencies": {
     "chakram": "^1.5.0",
